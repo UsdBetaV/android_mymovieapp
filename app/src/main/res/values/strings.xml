@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">MyAnimeApp</string>
+    <string name="backdrop_link">https://image.tmdb.org/t/p/w780</string>
+    <string name="poster_link">https://image.tmdb.org/t/p/w342</string>
+</resources>
